@@ -1,9 +1,11 @@
 # Babajide Ogunbanwo
 ## Data Analytics Portfolio
 
-# Model Improvement & Implementation
+# Model Improvement & Implementation 
 
-Model Improvement techniques such as cross validation, ensemble method, and parameter tuning utilized to optimize a classification model:
+[Model Improvement Repository](https://github.com/bio-ops/Model-Improvement) 
+
+Model improvement techniques such as cross validation, ensemble method, and parameter tuning utilized to optimize a classification model:
 
 * Data was taken from a Credit Dataset in .csv format
 * Label encoding and data splitting performed on dataset
@@ -14,6 +16,8 @@ Model Improvement techniques such as cross validation, ensemble method, and para
 * Model performance score calculated using optimal model hyperparameters and best model identified
 
 # Supervised Learning
+
+[Supervised Learning Repository](https://github.com/bio-ops/Supervised-Learning)
 
 Classification analysis using a decision tree model was performed with the goal of building a model used to predict likelihood of a potential customer accepting a loan:
 
@@ -29,6 +33,14 @@ Classification analysis using a logistic regression model was performed with the
 * LogisticRegression method from scikitlearn library leveraged to build logistic regression model
 * Confusion matrix and AUC score used to evaluate model performance
 
+Regression analysis on a laptop sale dataset was performed utilizing neural network modeling wwith the goal of predicting retail sale price: 
+
+* Data was taken from an Laptop Sales Dataset in .csv format
+* Predictor variables and Target variable identified
+* Data split into training and test set
+* Keras library used to create a neural network model 
+* Model performance evaluated
+
 Regression analysis on an insurance cost dataset was performed with the goal of predicting the cost of insurance based on a set of predictors: 
 
 * Data was taken from an Insurance Dataset in .csv format
@@ -38,6 +50,8 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 * Regression model evaluated using test data and based on RMSE/Coefficient of Determination
 
 # Unsupervised Learning
+
+[Unspervised Learning Repository](https://github.com/bio-ops/Unsupervised-Learning)
 
 K-cluster analysis on a pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
 
@@ -62,6 +76,8 @@ Association Rule analysis on a grocery basket data set  was performed with the g
 * Dataframe with association rules for each item set created for further analysis
 
 # Exploratory Data Analysis
+
+[Exploratory Analysis Repository](https://github.com/bio-ops/Exploratory-Data-Analysis)
 
 In this project, an exploratory analysis on the salaries of SanFrancisco residents was performed:
 
