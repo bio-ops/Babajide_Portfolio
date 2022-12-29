@@ -34,7 +34,7 @@ Classification analysis using a decision tree model was performed with the goal 
 
 **Resulting AUC:** 
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/UniversalBankModel_AUC.png)
+![](UniversalBankModel_AUC.png)
 
 Classification analysis using a logistic regression model was performed with the goal of building a model used to predict likelihood of a potential customer accepting a loan:
 
@@ -46,7 +46,7 @@ Classification analysis using a logistic regression model was performed with the
 
 **Resulting Decision Tree Confusion Matrix for Customer Churn:** 
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Decision%20Tree_Confusion_Telco.png)
+![](Decision Tree_Confusion_Telco.png)
 
 Regression analysis on a laptop sale dataset was performed utilizing neural network modeling with the goal of predicting retail sale price: 
 
@@ -65,7 +65,7 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 * Regression model created using statsmodels.api
 * Regression model evaluated using test data and based on RMSE/Coefficient of Determination
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Insurance%20Cost%20_%20LR_%20Heatmap.png)
+![](Insurance Cost _ LR_ Heatmap.png)
 
 # Unsupervised Learning
 
@@ -81,7 +81,7 @@ k-cluster analysis on a mall customer dataset performed with the goal of identif
 
 **Resulting cluster map across annual income and spending score:**
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Mall%20Customers_Cluster%20Graph.png)
+![](Mall Customers_Cluster Graph.png)
 
 K-cluster analysis on a pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
 
@@ -91,9 +91,9 @@ K-cluster analysis on a pharmaceutical company dataset was performed with the go
 * Parallel Coordinates created to visualize the centroids of each cluster
 * Scatterplot used to visualize clusters across unique attribute dimensions
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Pharmaceutical%20Data%20Clustering_Elbow.png)
+![](Pharmaceutical Data Clustering_Elbow.png)
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Pharmaceutical%20Data_parallel%20coord.png) 
+![](Pharmaceutical Data_parallel coord.png) 
 
 Hierarchical cluster analysis on an Automobile dealership dataset was performed with the goal of clustering similar car models together: 
 
@@ -103,7 +103,7 @@ Hierarchical cluster analysis on an Automobile dealership dataset was performed 
 
 **Ward Linkage Dendogram:** 
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Hierchical_Ward%20Linkage.png) 
+![](Hierchical_Ward Linkage.png) 
 
 Association Rule analysis on a grocery basket data set  was performed with the goal of identify grocery items that are typically bought together and thus, associated with each other:
 
@@ -115,7 +115,7 @@ Association Rule analysis on a grocery basket data set  was performed with the g
 
 **Frequency Analysis:** 
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/ItemFreq_Groceries_AR.png)
+![](ItemFreq_Groceries_AR.png)
 
 # Exploratory Data Analysis
 
@@ -129,6 +129,6 @@ In this project, an exploratory analysis on the salaries of SanFrancisco residen
 * Box plots and histogram of variables of importance generated
 * Libraries used: Pandas, Seaborn
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/Boston_BoxPlot.png)
+![](Boston_BoxPlot.png)
 
-![](https://github.com/bio-ops/Portfolio-Images/blob/main/SF%20Salary_Pay%20Distribution.png)
+![](SF Salary_Pay Distribution.png)
