@@ -67,6 +67,8 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 * Regression model created using statsmodels.api
 * Regression model evaluated using test data and based on RMSE/Coefficient of Determination
 
+**Resulting Heatmap:**
+
 ![](InsuranceCost_LR_Heatmap.png)
 
 # Unsupervised Learning
