@@ -1,11 +1,11 @@
 # Babajide Ogunbanwo
-Data Analytics Portfolio
+##Data Analytics Portfolio
 
 # Model Improvement & Implementation
 
 Model Improvement techniques such as cross validation, ensemble method, and parameter tuning utilized to optimize a classification model:
 
-* Data was taken from a credit Dataset in .csv format
+* Data was taken from a Credit Dataset in .csv format
 * Label encoding and data splitting performed on dataset
 * Decision Tree model created and evaluated using ROC metric
 * Cross validation technique performed to improve model score
@@ -31,7 +31,7 @@ Classification analysis using a logistic regression model was performed with the
 
 Regression analysis on an insurance cost dataset was performed with the goal of predicting the cost of insurance based on a set of predictors: 
 
-* Data was taken from an insurance Dataset in .csv format
+* Data was taken from an Insurance Dataset in .csv format
 * Correlation heatmap created using seaborn and matplotlib
 * Label encoding and division of data into training/test set performed using SciKitLearn
 * Regression model created using statsmodels.api
@@ -39,7 +39,7 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 
 # Unsupervised Learning
 
-K-cluster analysis on a Pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
+K-cluster analysis on a pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
 
 * Data was taken from a Pharmaceutical Stock Dataset in .csv format
 * Standardization of numerical features was performed using the StandardScaler module from the SciKit learn preprocessing module
