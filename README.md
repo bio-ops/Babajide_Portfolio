@@ -48,7 +48,7 @@ Classification analysis using a logistic regression model was performed with the
 **Resulting Decision Tree Confusion Matrix for Customer Churn:** 
 
 
-![](Decision Tree_Confusion_Telco.png)
+![](DecisionTree_Confusion_Telco.png)
 
 Regression analysis on a laptop sale dataset was performed utilizing neural network modeling with the goal of predicting retail sale price: 
 
@@ -67,7 +67,7 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 * Regression model created using statsmodels.api
 * Regression model evaluated using test data and based on RMSE/Coefficient of Determination
 
-![](Insurance Cost _ LR_ Heatmap.png)
+![](InsuranceCost_LR_Heatmap.png)
 
 # Unsupervised Learning
 
@@ -83,7 +83,7 @@ k-cluster analysis on a mall customer dataset performed with the goal of identif
 
 **Resulting cluster map across annual income and spending score:**
 
-![](Mall Customers_Cluster Graph.png)
+![](MallCustomers_ClusterGraph.png)
 
 K-cluster analysis on a pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
 
@@ -93,9 +93,9 @@ K-cluster analysis on a pharmaceutical company dataset was performed with the go
 * Parallel Coordinates created to visualize the centroids of each cluster
 * Scatterplot used to visualize clusters across unique attribute dimensions
 
-![](Pharmaceutical Data Clustering_Elbow.png)
+![](PharmaceuticalData Clustering_Elbow.png)
 
-![](Pharmaceutical Data_parallel coord.png) 
+![](PharmaceuticalData_parallel coord.png) 
 
 Hierarchical cluster analysis on an Automobile dealership dataset was performed with the goal of clustering similar car models together: 
 
@@ -105,7 +105,7 @@ Hierarchical cluster analysis on an Automobile dealership dataset was performed 
 
 **Ward Linkage Dendogram:** 
 
-![](Hierchical_Ward Linkage.png) 
+![](Hierchical_WardLinkage.png) 
 
 Association Rule analysis on a grocery basket data set  was performed with the goal of identify grocery items that are typically bought together and thus, associated with each other:
 
@@ -133,4 +133,4 @@ In this project, an exploratory analysis on the salaries of SanFrancisco residen
 
 ![](Boston_BoxPlot.png)
 
-![](SF Salary_Pay Distribution.png)
+![](SFSalary_PayDistribution.png)
