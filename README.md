@@ -34,6 +34,7 @@ Classification analysis using a decision tree model was performed with the goal 
 
 **Resulting AUC:** 
 
+
 ![](UniversalBankModel_AUC.png)
 
 Classification analysis using a logistic regression model was performed with the goal of building a model used to predict likelihood of a potential customer accepting a loan:
@@ -45,6 +46,7 @@ Classification analysis using a logistic regression model was performed with the
 
 
 **Resulting Decision Tree Confusion Matrix for Customer Churn:** 
+
 
 ![](Decision Tree_Confusion_Telco.png)
 
