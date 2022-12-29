@@ -18,7 +18,7 @@ Model improvement techniques such as cross validation, ensemble method, and para
 
 **The model with the best resulting AUC was the Random Forest model as displayed below:** 
 
-![](RandomForest_ROC.png)
+![](https://github.com/bio-ops/Portfolio-Images/blob/main/RandomForest_ROC.png)
 
 
 # Supervised Learning
