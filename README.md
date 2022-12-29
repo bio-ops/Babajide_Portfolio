@@ -93,9 +93,9 @@ K-cluster analysis on a pharmaceutical company dataset was performed with the go
 * Parallel Coordinates created to visualize the centroids of each cluster
 * Scatterplot used to visualize clusters across unique attribute dimensions
 
-![](PharmaceuticalData Clustering_Elbow.png)
+![](PharmaceuticalDataClustering_Elbow.png)
 
-![](PharmaceuticalData_parallel coord.png) 
+![](PharmaceuticalData_parallelcoord.png) 
 
 Hierarchical cluster analysis on an Automobile dealership dataset was performed with the goal of clustering similar car models together: 
 
