@@ -95,11 +95,11 @@ K-cluster analysis on a pharmaceutical company dataset was performed with the go
 * Parallel Coordinates created to visualize the centroids of each cluster
 * Scatterplot used to visualize clusters across unique attribute dimensions
 
-**Resulting Elbow Method; Optimal k=2**
+**Resulting Elbow Method; Optimal k=2:**
 
 ![](PharmaceuticalDataClustering_Elbow.png)
 
-**Parallel Coordinate Map Shows Interactions across features**
+**Parallel Coordinate Map Shows Interactions across features:**
 
 ![](PharmaceuticalData_parallelcoord.png) 
 
@@ -137,6 +137,10 @@ In this project, an exploratory analysis on the salaries of SanFrancisco residen
 * Box plots and histogram of variables of importance generated
 * Libraries used: Pandas, Seaborn
 
+**Box Plot:**
+
 ![](Boston_BoxPlot.png)
+
+**SF Salary Pay Distribution:**
 
 ![](SFSalary_PayDistribution.png)
