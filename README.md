@@ -99,7 +99,7 @@ K-cluster analysis on a pharmaceutical company dataset was performed with the go
 
 ![](PharmaceuticalDataClustering_Elbow.png)
 
-**Parallel Coordinate Map Shows Interactions across features:**
+**Parallel Coordinate Map shows interactions across features:**
 
 ![](PharmaceuticalData_parallelcoord.png) 
 
