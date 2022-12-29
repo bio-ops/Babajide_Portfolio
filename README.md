@@ -71,6 +71,18 @@ Regression analysis on an insurance cost dataset was performed with the goal of 
 
 [Unspervised Learning Repository](https://github.com/bio-ops/Unsupervised-Learning)
 
+k-cluster analysis on a mall customer dataset performed with the goal of identifying unique customer segements for marketing purposes: 
+
+* Data was taken from a Mall Customer Dataset in .csv format
+* Data read and preprocessed using scikitlearn
+* KMeans Cluster Analysis performed. Optimal K determined utilizing the elbow method
+* Parallel Coordinates created to visualize the centroids of each cluster
+* Scatterplot used to visualize clusters across unique attribute dimensions
+
+**Resulting cluster map across annual income and spending score:**
+
+![](https://github.com/bio-ops/Portfolio-Images/blob/main/Mall%20Customers_Cluster%20Graph.png)
+
 K-cluster analysis on a pharmaceutical company dataset was performed with the goal of creating a basket of pharmaceutical companiess with similar stock attributes:
 
 * Data was taken from a Pharmaceutical Stock Dataset in .csv format
@@ -118,3 +130,5 @@ In this project, an exploratory analysis on the salaries of SanFrancisco residen
 * Libraries used: Pandas, Seaborn
 
 ![](https://github.com/bio-ops/Portfolio-Images/blob/main/Boston_BoxPlot.png)
+
+![](https://github.com/bio-ops/Portfolio-Images/blob/main/SF%20Salary_Pay%20Distribution.png)
